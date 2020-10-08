@@ -1,4 +1,4 @@
-FIX
+East India Company
 ===
 Reference Architecture for eCommerce on Heroku – [More Information](https://heroku.github.io/fix)
 
