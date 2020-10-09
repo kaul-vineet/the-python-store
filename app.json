@@ -1,6 +1,5 @@
 {
   "name": "FIX eCommerce storefront",
-  "stack": "heroku-16",
   "description": "Reference architecture, Heroku + Salesforce",
   "keywords": [
     "ecommerce",
